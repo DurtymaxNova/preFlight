@@ -18,15 +18,10 @@
 
 **Pilot, You Are Cleared for Launch.**
 
-preFlight is an advanced 3D printing slicer. Building on the Slic3r legacy as a "spiritual successor" to PrusaSlicer, it offers exclusive features and a comprehensive under-the-hood overhaul, bringing the entire dependency stack up to modern standards. Switching is easy: preFlight natively imports PrusaSlicer and OrcaSlicer profiles so you can be up and running in minutes. To put it mildly, this is no ordinary fork.
+preFlight is an advanced 3D printing slicer. What began as a fork of PrusaSlicer has quickly grown into something completely unique. Slic3r, the legacy 15+ year-old code at its core, has been retired and replaced by [Luminary](https://preflight3d.com/features/64-bit-architecture), our ground-up reimagining of the engine. The UI layer is now [DSKY](https://preflight3d.com/features/64-bit-architecture) and the entire [dependency stack](https://preflight3d.com/features/64-bit-architecture) underneath has been modernized. preFlight natively imports PrusaSlicer, SuperSlicer and now [OrcaSlicer](https://preflight3d.com/features/orca-import) profile bundles, so you can be up and running in minutes. To put it mildly, this is no ordinary fork.
 
 - Visit **[preflight3d.com](https://preflight3d.com)** for features, screenshots, and details.
 - Community discussion on [GitHub Discussions](https://github.com/oozebot/preFlight/discussions/categories/preflight-features) and the [Duet3D forum](https://forum.duet3d.com/category/44/preflight).
-
-
-## oozeBot
-
-Based in Georgia, USA, oozeBot is a small but ambitious team currently preparing for the take-off of our Elevate line of 3D printers. preFlight is the cornerstone of that ecosystem, but is open to all makers. It's our way of investing in a community we've been part of for over 10 years.
 
 
 ## Donate
